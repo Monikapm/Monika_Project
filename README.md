@@ -1,1 +1,2 @@
-# Monika_Project
+# -Logistic-Regression-Mini-Project
+ Logistic Regression Mini-Project: Springboard
